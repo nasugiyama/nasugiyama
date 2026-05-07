@@ -1,11 +1,11 @@
-<h1 align="center">Natasha Sugiyama 👋</h1>
+<h1 align="center">Natasha Sugiyama </h1>
 
 <p align="center">
   <strong>Power Platform Specialist · Power BI · Automação de Processos</strong>
 </p>
 
 <p align="center">
-  Transformo dados em decisões. Especialista em Power Platform, Power BI e automação de processos — criando soluções analíticas de alto impacto para empresas globais.
+  Transformo dados em decisões. Especialista em Power Platform, Power BI e automação de processos criando soluções analíticas de alto impacto para empresas globais.
 </p>
 
 <p align="center">
