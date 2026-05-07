@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://app.xperiun.com/in/natashasugiyama" target="_blank">
-    <img src="https://img.shields.io/badge/Xperiun-1a5fa8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTRjLS4yNi0uODEtMS0xLjM5LTEuOS0xLjM5aC0xdi0zYzAtLjU1LS40NS0xLTEtMUg4di0yaDJjLjU1IDAgMS0uNDUgMS0xVjdoMmMxLjEgMCAyLS45IDItMnYtLjQxYzIuOTMgMS4xOSA1IDQuMDYgNSA3LjQxIDAgMi4wOC0uOCAzLjk3LTIuMSA1LjM5eiIvPjwvc3ZnPg==&logoColor=white" alt="Portfolio BI"/>
+    <img src="https://img.shields.io/badge/Xperiun-1a5fa8?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Portfolio BI"/>
   </a>
 </p>
 
@@ -25,8 +25,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" title="Power BI"/>
-  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
   <img src="https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot Studio"/>
@@ -34,24 +33,14 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,figma,git,github,vscode" alt="Azure, Figma, Git, GitHub, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=html,python,azure,figma,git,github,vscode" alt="HTML, Python, Azure, Figma, Git, GitHub, VS Code"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasugiyama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasugiyama&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white" alt="XML"/>
 </p>
 
 ---
